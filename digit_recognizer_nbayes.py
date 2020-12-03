@@ -2,14 +2,13 @@
 """
 Created on Tue May  5 00:23:26 2020
 
-@author: Kunal Jani
 """
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#REading the data and storing them into the x and y variables.
+# the data and storing them into the x and y variables.
 
 train_dataset=pd.read_csv('train.csv')
 
